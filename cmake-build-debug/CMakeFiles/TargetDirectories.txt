@@ -1,0 +1,7 @@
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/lecture_4.dir
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/3.dir
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/2+.dir
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/2.dir
+/Users/abodimsarwi/CLionProjects/Exams/cmake-build-debug/CMakeFiles/1.dir
